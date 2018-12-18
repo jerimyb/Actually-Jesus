@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html class="bkg-red">
+<style>
+
+.photo {
+width: 250px;
+border-width: 7px;
+border-color: gold;
+border-style: solid;
+border-radius: 20px;
+}
+
+.yellow-text {
+font-size: 140px;
+color: yellow;
+}
+
+.bkg-red {
+background-color: red;
+}
+
+.txt-sze {
+font-size: 25px;
+}
+
+</style>
+
+<main>
+<h1>
+Could this be god?
+</h1>
+
+<img class="photo" src="https://pbs.twimg.com/media/B2MXoJQIUAAcK4n.jpg">
+
+<form class="txt-sze">
+<input type=radio name=yes>Yes!
+<input type=radio name=yes>Yes!
+<input type=radio name=yes>Yes!
+<input type=radio name=yes>Yes!
+<input type=radio name=yes>Other (options below)
+</form>
+
+<p class="yellow-text">
+Definetely
+</p>
+
+</main>
+</html>
